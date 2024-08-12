@@ -1,0 +1,3 @@
+This is a Discord Weather Bot which utilizes discord.js to obtain information from the user and then relay new information from the Weather Tomorrow and Quick Chart APIs.
+
+To use the bot, start a command with "/". If you want the current forecast, then enter a city name. If you want more specific data about a specific condition for the next 12 hours, enter the city name followed by a colon with the condition. The possible conditions are humdity, precipitation, temperature, uvIndex, and windSpeed
