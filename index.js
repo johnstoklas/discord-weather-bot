@@ -1,5 +1,3 @@
-var apiKey = "koiFAFwdS4Oeu3FOYrelsTWs05MXeXZW";
-
 require('dotenv').config();
 const QuickChart = require('quickchart-js');
 
